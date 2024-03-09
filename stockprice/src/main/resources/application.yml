@@ -1,0 +1,20 @@
+
+
+spring:
+  datasource:
+    driverClassName: org.h2.Driver
+    password: ''
+    url: jdbc:h2:mem:testdb
+    username: sa
+  jpa:
+    defer-datasource-initialization: true
+    
+  application:
+        name: stock-Price
+              
+eureka:
+ client:
+    serviceUrl:
+      defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}
+ instance:
+   preferIpAddress: true

@@ -1,0 +1,6 @@
+    Hello {first_name},{last_name}<br/>
+    greetings for the day,<br/>
+    welcome to HIS(Health Insurance New Jersy) <br/>
+    TO Unlock your Account click the below mentioned link <br>
+    <a href="http://localhost:9091/unlockform?email={e_mail}">Unlock</a>
+

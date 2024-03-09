@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Email Subject</title>
+</head>
+<body>
+    <p>Hello, this is a test email! Click the link below:</p>
+    <a href="http://localhost:8989/example">Visit the Example Page</a>
+</body>
+</html>
